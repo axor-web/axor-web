@@ -21,7 +21,7 @@
 ![Tailwind.css](https://img.shields.io/badge/tailwind.css-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## My statistiсs: </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axor-web&layout=compact&exclude_repo=axor-web.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axor-web&exclude_repo=axor-web.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **axor-web/axor-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
