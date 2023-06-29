@@ -1,4 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi! My name is <a href="" target="_blank">Alexey</a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=600&pause=1000&color=3915F7&center=true&repeat=false&width=435&lines=%D0%9D%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a>
+
+## My stack: </br>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=green)
+</br>
+![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+</br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![PostCSS](https://img.shields.io/badge/postcss-000000?style=for-the-badge&logo=postcss&logoColor=red)
+![Tailwind.css](https://img.shields.io/badge/tailwind.css-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+## My statistiсs: </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinblake14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **axor-web/axor-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
