@@ -1,5 +1,5 @@
 <h1 align="center">Hi! My name is <a href="" target="_blank">Alexey</a></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=764ABC&center=true&vCenter=true&repeat=false&width=800&height=100&separator=%3C&lines=const+mySpecialty+%3D+'Frontend+Engineer';" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&separator=%3C&lines=const+mySpecialty+%3D+'Frontend+Engineer';" alt="Typing SVG" /></a></a>
 
 ## My stack: </br>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
