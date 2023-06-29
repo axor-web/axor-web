@@ -1,4 +1,4 @@
-<h1 align="center">Hi! My name is <a href="" target="_blank" style="color: #764ABCFF">Alexey</a></h1>
+<h1 align="center">Hi! My name is <a href="" target="_blank" color="#764ABCFF">Alexey</a></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=764ABC&center=true&vCenter=true&repeat=false&width=800&height=100&separator=%3C&lines=const+mySpecialty+%3D+'Frontend+Engineer';" alt="Typing SVG" /></a>
 
 ## My stack: </br>
