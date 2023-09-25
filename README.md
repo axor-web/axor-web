@@ -18,7 +18,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![PostCSS](https://img.shields.io/badge/postcss-000000?style=for-the-badge&logo=postcss&logoColor=red)
-![Tailwind.css](https://img.shields.io/badge/tailwind.css-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## My statistiсs: </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axor-web&theme=dark&layout=compact&exclude_repo=axor-web.github.io)](https://github.com/anuraghazra/github-readme-stats)
