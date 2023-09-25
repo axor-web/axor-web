@@ -1,11 +1,12 @@
 <h1 align="center">Hi! My name is <a href="" target="_blank">Alexey</a></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&height=80&separator=%3C&lines=const+mySpecialty%3A+string+%3D+'Frontend+Engineer';" alt="Typing SVG" /></a>
 
-## My stack: </br>
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## My stack:
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MongoDB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=green)
 </br>
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -19,7 +20,8 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![PostCSS](https://img.shields.io/badge/postcss-000000?style=for-the-badge&logo=postcss&logoColor=red)
 
-## My statistiсs: </br>
+## My statistiсs:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axor-web&theme=dark&layout=compact&exclude_repo=axor-web.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
