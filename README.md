@@ -1,5 +1,5 @@
 <h1 align="center">Hi! My name is <a href="" target="_blank">Alexey</a></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&height=80&separator=%3C&lines=const+mySpecialty%3A+string+%3D+'Frontend+Engineer';" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&height=80&separator=%3C&lines=const+mySpecialty+%3D+'FullStack+Engineer';" alt="Typing SVG" /></a>
 
 ## My stack:
 
